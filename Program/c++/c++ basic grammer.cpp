@@ -11,7 +11,7 @@
 /*
 class Clock{
 	int hour;
-	public:
+	public:                //public在类中可以多次写
 		void setClock(int a);
 }; 
 void Clock::setClock(int a){
